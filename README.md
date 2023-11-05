@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, World! I'm Joshua, a passionate software developer with a strong affinity for writing clean, efficient, and scalable code. <br><br>🚀 Over the years, I've had the privilege to work on a variety of exciting projects and technologies, including Tailwind, Alphine, Laravel, and Livewire. I thrive on solving complex problems and turning ideas into working software solutions.
+Hello, World! I'm Joshua, a passionate software developer with a strong affinity for writing clean, efficient, and scalable code.
 
 
 ## 🌐 Socials:
