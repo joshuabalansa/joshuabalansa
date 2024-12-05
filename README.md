@@ -22,6 +22,8 @@ Continuous learning is essential in the ever-evolving tech landscape. Presently,
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![GitHub Contribution Graph](https://github-contribution-graph.ez4o.com/?username=joshuabalansa&theme=react-dark)](https://github.com/sallar/github-contributions-api)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=joshuabalansa&icon=7&color=0)](https://visitcount.itsvg.in)
 
