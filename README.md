@@ -12,7 +12,7 @@ Continuous learning is essential in the ever-evolving tech landscape. Presently,
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joshuabalansa&bg_color=1a2332&color=ffffff&line=ffffff&point=7f8ff4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joshuabalansa&bg_color=1a2332&color=ffffff&line=ffffff&point=7f8ff4&area=true&hide_border=true)]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joshuabalansa&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
